@@ -1,3 +1,4 @@
 # python-projects-
-quiz game in python programming /n
+quiz game in python programming
+
 Number guessing game 
